@@ -1,3 +1,4 @@
 baseURL = 'https://gecos-analytics.statichost.page/'
 languageCode = 'en-us'
 title = 'Gecos Analytics website'
+theme = 'ananke'
