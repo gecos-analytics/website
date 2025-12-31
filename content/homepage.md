@@ -5,6 +5,4 @@ draft = false
 url = "/"
 +++
 
-This will be the Gecos Analytics home page
-
-See [products](products/risk-assessment) for products.
+This will be the Gecos Analytics front page.
