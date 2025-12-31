@@ -1,8 +1,10 @@
 +++
-date = '2025-12-31T14:05:35+02:00'
+#date = '2025-12-31T14:05:35+02:00'
 draft = false
-title = 'Homepage'
-url = /
+#title = 'Homepage'
+url = "/"
 +++
 
-Testing if this page becomes the homepage.
+This will be the Gecos Analytics home page
+
+See [products](products/risk-assessment) for products.
